@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin_one">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_users"
+        android:layout_width="@dimen/profile_one"
+        android:layout_height="@dimen/profile_one"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="@dimen/title_text"
+        android:textStyle="bold"
+        android:layout_marginStart="@dimen/margin_two"
+        app:layout_constraintStart_toEndOf="@+id/img_users"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/users_name" />
+
+    <TextView
+        android:id="@+id/tv_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_name"
+        android:textSize="@dimen/content_text"
+        android:layout_marginStart="@dimen/margin_two"
+        app:layout_constraintStart_toEndOf="@+id/img_users"
+        app:layout_constraintTop_toBottomOf="@+id/tv_name"
+        tools:text="@string/username_default" />
+
+    <TextView
+        android:id="@+id/tv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_username"
+        android:textSize="@dimen/content_text"
+        android:layout_marginStart="@dimen/margin_two"
+        app:layout_constraintStart_toEndOf="@+id/img_users"
+        app:layout_constraintTop_toBottomOf="@+id/tv_username"
+        tools:text="@string/users_location" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

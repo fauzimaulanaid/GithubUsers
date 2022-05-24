@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/activity_detail_user.xml" value="0.12" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/activity_spash_screen.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/activity_user_favorite.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/fragment_followers.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/fragment_following.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/item_row_users.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/user_favorite_widget.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/layout/widget_item.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/menu/option_only_setting.xml" value="0.17037037037037037" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/menu/option_search.xml" value="0.17037037037037037" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21025641025641026" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21025641025641026" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/app/src/main/res/xml/preference.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/activity_detail_user.xml" value="0.1" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/activity_main.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/activity_settings.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/activity_spash_screen.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/activity_user_favorite.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/fragment_followers.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/fragment_following.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/item_row_users.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/user_favorite_widget.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/layout/widget_item.xml" value="0.16077898550724637" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/menu/option_only_setting.xml" value="0.19739583333333333" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/menu/option_search.xml" value="0.19739583333333333" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21025641025641026" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21025641025641026" />
+        <entry key="..\:/DICODING/AndroidStudioProjects/MySubmission1/consumerapp/src/main/res/xml/preference.xml" value="0.16077898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

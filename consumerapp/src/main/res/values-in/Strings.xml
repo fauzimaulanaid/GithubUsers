@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consumer App</string>
+    <string name="users_name">Nama</string>
+    <string name="username_default">Nama Pengguna</string>
+    <string name="users_company">Perusahaan</string>
+    <string name="users_location">Lokasi</string>
+    <string name="users_repository">Repositori</string>
+    <string name="users_followers">Pengikut</string>
+    <string name="users_following">Mengikuti</string>
+    <string name="github_logo">Logo Github</string>
+    <string name="search">Cari</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="detail">Detail Pengguna</string>
+    <string name="choose">Anda memilih %s</string>
+    <string name="hint">Cari Pengguna</string>
+    <string name="favorite">Favorit</string>
+    <string name="title_favorite">Pengguna yang di sukai</string>
+    <string name="no_fav_user">Tidak ada Pengguna yang di sukai</string>
+    <string name="removed">%s telah dihapus dari Favorit</string>
+    <string name="removed_failed">Gagal menghapus %s dari Favorit</string>
+    <string name="added">%s telah ditambahkan ke Favorit</string>
+    <string name="added_failed">Gagal menambahkan %s ke Favorit</string>
+    <string name="no_internet_title">Tidak Ada Jaringan Internet</string>
+    <string name="no_internet_message">Mohon periksa koneksi anda!</string>
+    <string name="no_internet_message_followers_following">Tidak dapat memuat daftar Pengikut dan Mengikuti</string>
+    <string name="refresh">Muat ulang</string>
+    <string name="warning">Peringatan</string>
+    <string name="ask">Apakah anda yakin ingin menghapus %s dari Favorit?</string>
+    <string name="yes">Yakin</string>
+    <string name="no">Tidak</string>
+    <string name="key_alarm">alarm</string>
+    <string name="key_language">language</string>
+    <string name="alarm">Pengingat pukul 09.00 Pagi</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="selected_language">Bahasa yang dipilih</string>
+    <string name="english">Bahasa Inggris</string>
+    <string name="bahasa">Bahasa Indonesia</string>
+    <string name="notification">Ayo cari pengguna yang terkenal di Github!</string>
+    <string name="reminder_activated">Pengingat pukul 09.00 Pagi telah dinyalakan</string>
+    <string name="reminder_cancelled">Pengingat pukul 09.00 Pagi telah dibatalkan</string>
+    <string name="widget_title">PENGGUNA YANG ANDA SUKAI</string>
+    <string name="widget_empty">TIDAK ADA DATA</string>
+</resources>

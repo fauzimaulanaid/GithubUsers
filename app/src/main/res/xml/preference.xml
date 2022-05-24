@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:iconSpaceReserved="false">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/key_alarm"
+        android:title="@string/alarm"
+        android:icon="@drawable/baseline_notifications_black_20"
+        app:iconSpaceReserved="false"/>
+
+    <Preference
+        android:key="@string/key_language"
+        android:title="@string/select_language"
+        android:icon="@drawable/baseline_g_translate_black_20"
+        app:summary="@string/selected_language" />
+
+
+</PreferenceScreen>
